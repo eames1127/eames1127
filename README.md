@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 I am a Software Engineer based on the Nottinghamshire/Derbyshire border and have worked within the industry since 2012. I am currently employed by a large organisation working as senior member within a team responsible for developing exceedingly large scale software solutions.
 
-- 🔭 I’m currently working on a Climate Change website. (Private Repo)
+- 🔭 I’m currently working on a "Family Todo" application. (Private Repo)
 - 🌱 I’m currently learning PowerShell with the aim of increasing productivity by automating smaller tasks.
 - ⚡ My personal website can be found [here.](https://daeames.com)
 
