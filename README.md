@@ -17,8 +17,10 @@ Here are some ideas to get you started:
 
 I am a Software Engineer based on the Nottinghamshire/Derbyshire border and have worked within the industry since 2012. I am currently employed by a large organisation working as senior member within a team responsible for developing exceedingly large scale software solutions.
 
-- 🔭 I’m currently working on a "Family Todo" application. (Private Repo)
-- 🌱 I’m currently learning PowerShell with the aim of increasing productivity by automating smaller tasks.
+- 🔭 I’m currently working on a "Todo" application. (Private Repo)
+- 🌱 I’m currently learning 
+  * PowerShell and automation to increase productivity.
+  * EJS
 - ⚡ My personal website can be found [here.](https://daeames.com)
 
 ![eames1127 github stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=eames1127&show_icons=true&include_all_commits=true)
