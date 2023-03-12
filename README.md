@@ -15,12 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am a Software Engineer based on the Nottinghamshire/Derbyshire border and have worked within the industry since 2012. I am currently employed by a large organisation working as senior member within a team responsible for developing exceedingly large scale software solutions.
+I am a Software Engineer based on the Nottinghamshire/Derbyshire border and have worked within the industry since 2012. I am currently employed by a large organisation working as Team leader responsible for developing large scale software solutions.
 
-- 🔭 I’m currently working on a "Todo" application. (Private Repo)
+- 🔭 I’m currently working on a Finance application. (Private Repo)
 - 🌱 I’m currently learning 
   * PowerShell and automation to increase productivity.
-  * EJS
+  * Vue
 - ⚡ My personal website can be found [here.](https://daeames.com)
 
 ![Most used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eames1127&theme=merko)
