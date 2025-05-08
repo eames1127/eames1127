@@ -15,10 +15,9 @@ Here are some ideas to get you started:
 
 I am a Software Engineer based on the Nottinghamshire/Derbyshire border and have worked within the industry since 2012. I am currently employed by a large organisation working as Team leader responsible for developing large scale software solutions.
 
-- 🔭 I’m currently working on a Finance application. (Private Repo)
-- 🌱 I’m currently learning 
-  * PowerShell and automation to increase productivity.
-  * Vue
+- 🔭 I’m currently working on a Wild gardening application. (Private Repo)
+- 🌱 I’m currently learning
+  * Vue 3
 - ⚡ My personal website can be found [here.](https://daeames.com)
 
 ![Most used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eames1127&theme=merko)
