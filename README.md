@@ -20,10 +20,7 @@ I'm an Engineer Manager, based on the Nottinghamshire/Derbyshire border and have
 - 🔭 I'm also working on two other Repos between releases of GrowWild, one is another private repo and one is a recently started Repo called [GitGreens](https://github.com/eames1127/GitGreens).
 - ✨ While you're here why not also checkout my shared [PowerShellProfile](https://github.com/eames1127/PowerShellProfile) it contains some useful functions and general bits I've found helpful over the years.
 - 🌱 I’m currently improving my knowledge of Vue and N8N.
-
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/danieleames1/)
-  
-![Most used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eames1127&theme=merko)
+<!--![Most used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eames1127&theme=merko)-->
 <!--![eames1127 github stats](https://github-readme-stats.vercel.app/api?username=eames1127&theme=merko&show_icons=true)-->
 
 
