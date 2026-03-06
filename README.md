@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 -->
 
-I'm an Engineer Manager, based on the Nottinghamshire/Derbyshire border and have worked within the industry since 2012, over that time, I have built a career starting as an Assistant Engineer and progressed to my current role as an Engineer Manager, in a global organisation developing exceedingly large scale software solutions.
+I'm an Engineering Manager, based on the Nottinghamshire/Derbyshire border and have worked within the industry since 2012, over that time, I have built a career starting as an Assistant Engineer and progressed to my current role, in a global organisation developing exceedingly large scale software solutions.
 
 - ⚡ Please feel free to visit [My personal website.](https://daeames.com)
 - 🔭 I’m currently working on [GrowWild](http://growwild.daeames.com), a UK based gardening application that helps it's users find native plants they can add to their gardens and offers other features on top.
